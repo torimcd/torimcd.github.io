@@ -81,8 +81,12 @@ Technical Skills
   * CESM1.2, CCSM4
 
 
-Service and leadership
+Service and Professional Memberships
 ======
 * Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)
 * Diversity Committee Representative - Dept. of Atmospheric Sciences, UW (2020)
 * Diversity Committee Representative - College of the Environment, UW (2020)
+
+* American Meteorological Society (2019 - present)
+* American Geophysical Society (2018 - present)
+* Canadian Meteorological and Oceanographic Society (2018 - present)

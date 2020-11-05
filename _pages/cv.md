@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Science, University of Washington, 2019 - present
-* B.Sc. in Earth Science & Mathematics, University of Victoria, 2019
-* Cert. in Computer Systems Technology, Camosun College, 2011
-* A.Sc. in Mathematics, Camosun College, 2010
+* Ph.D in Atmospheric Science, University of Washington  (2019 - present)
+* B.Sc. in Earth Science & Mathematics, University of Victoria  (2019)
+* Cert. in Computer Systems Technology, Camosun College  (2011)
+* A.Sc. in Mathematics, Camosun College  (2010)
 
 
 Research Positions

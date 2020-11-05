@@ -21,11 +21,11 @@ Education
 Research Positions
 ======
 #### Graduate Research Assistant, University of Washington (2019 - present)
-  * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
+  Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
   * Advisor: Dr. Lynn McMurdie
 
 #### NSERC USRA/Honors Thesis, University of Victoria (2018)
-  * Project: Climate sensitivity dependence on background climate state
+  Project: Climate sensitivity dependence on background climate state
   * Advisor: Dr. Colin Goldblatt
   
 #### NSERC USRA/Directed Study, University of Victoria (2017)
@@ -35,12 +35,12 @@ Research Positions
   
 Professional Experience
 ======
-#### Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
+### Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
   * Based out of Rotterdam 2014-2015
   Led technical strategy for international resellers and implementation partners.
   Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowlegde base articles, on-site implementation/architecture consulting, and community engagement.
 
-#### Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
+### Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
   Provided full technical support for Geocortex suite of web-based mapping products, including:
    - technical troubleshooting involving code-analysis, custom scripting, and configuration
    - virtual and on-site onsite training

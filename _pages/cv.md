@@ -41,11 +41,11 @@ Professional Experience
   * Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowlegde base articles, on-site implementation/architecture consulting, and community engagement.
 
 ### Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
-  Provided full technical support for Geocortex suite of web-based mapping products, including:
-   - technical troubleshooting involving code-analysis, custom scripting, and configuration
-   - virtual and on-site onsite training
-   - implemention consulting
-   - advocating for customer concerns with product development teams
+   * Provided full technical support for Geocortex suite of web-based mapping products, including:
+      * Technical troubleshooting involving code-analysis, custom scripting, and configuration
+      * Virtual and on-site onsite training
+      * Implemention consulting
+      * Advocating for customer concerns with product development teams
 
 
 Publications

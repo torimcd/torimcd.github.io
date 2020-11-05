@@ -20,15 +20,15 @@ Education
 
 Research Positions
 ======
-#### Graduate Research Assistant, University of Washington (2019 - present)
+### Graduate Research Assistant, University of Washington (2019 - present)
   * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
   * Advisor: Dr. Lynn McMurdie
 
-#### NSERC USRA/Honors Thesis, University of Victoria (2018)
+### NSERC USRA/Honors Thesis, University of Victoria (2018)
   * Project: Climate sensitivity dependence on background climate state
   * Advisor: Dr. Colin Goldblatt
   
-#### NSERC USRA/Directed Study, University of Victoria (2017)
+### NSERC USRA/Directed Study, University of Victoria (2017)
   * Project: Clouds stabilize Earth's long term climate
   * Advisor: Dr. Colin Goldblatt
   
@@ -47,6 +47,20 @@ Professional Experience
    - implemention consulting
    - advocating for customer concerns with product development teams
 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+ 
   
 Technical Skills
 ======
@@ -67,20 +81,6 @@ Technical Skills
   * CESM1.2, CCSM4
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
- 
-  
 Service and leadership
 ======
 * Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)

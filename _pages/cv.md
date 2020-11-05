@@ -9,32 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D in Atmospheric Science, University of Washington, 2019 - present
+B.S. in Earth Science & Mathematics, University of Victoria, 2019
+Cert. in Computer Systems Technology, Camosun College, 2011
+A.S. in Mathematics, Camosun College, 2010
 
-Work experience
+
+Research Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant, University of Washington (2019 - present)
+  * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
+  * Advisor: Dr. Lynn McMurdie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* NSERC USRA/Honors Thesis, University of Victoria (2018)
+  * Project: Climate sensitivity dependence on background climate state
+  * Advisor: Dr. Colin Goldblatt
   
-Skills
+* NSERC USRA/Directed Study, University of Victoria (2017)
+  * Project: Clouds stabilize Earth's long term climate
+  * Advisor: Dr. Colin Goldblatt
+  
+  
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
+  * Based out of Rotterdam 2014-2015
+  Led technical strategy for international resellers and implementation partners.
+  Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowlegde base articles, on-site implementation/architecture consulting, and community engagement.
+
+Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
+  Provided full technical support for Geocortex suite of web-based mapping products, including:
+   - technical troubleshooting involving code-analysis, custom scripting, and configuration
+   - virtual and on-site onsite training
+   - implemention consulting
+   - advocating for customer concerns with product development teams
+
+  
+Technical Skills
+======
+* Coding Languages & Associated Tools:
+  * Python - PyART, Matplotlib, MetPy, NumPy, SciPy, XArray, Dask, Mayavi
+  * MATLAB
+  * BASH
+  * .NET, C, JavaScript
+  * git, Mercurial, SVN
+  * NetCDF, CDO
+  
+* Expertise in Software:
+  * Visual Studio Code
+  * QGIS, ArcGIS, Geocortex, Blender
+  * Windows Server, Linux
+
+* Climate Models Used:
+  * CESM1.2, CCSM4
+
 
 Publications
 ======
@@ -42,18 +73,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)
+* Diversity Committee Representative - Dept. of Atmospheric Sciences, UW (2020)
+* Diversity Committee Representative - College of the Environment, UW (2020)

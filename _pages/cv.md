@@ -21,11 +21,11 @@ Education
 Research Positions
 ======
 #### Graduate Research Assistant, University of Washington (2019 - present)
-  Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
+  * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
   * Advisor: Dr. Lynn McMurdie
 
 #### NSERC USRA/Honors Thesis, University of Victoria (2018)
-  Project: Climate sensitivity dependence on background climate state
+  * Project: Climate sensitivity dependence on background climate state
   * Advisor: Dr. Colin Goldblatt
   
 #### NSERC USRA/Directed Study, University of Victoria (2017)

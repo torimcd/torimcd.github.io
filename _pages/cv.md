@@ -20,27 +20,27 @@ A.S. in Mathematics, Camosun College, 2010
 
 Research Positions
 ======
-* Graduate Research Assistant, University of Washington (2019 - present)
+### Graduate Research Assistant, University of Washington (2019 - present)
   * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms
   * Advisor: Dr. Lynn McMurdie
 
-* NSERC USRA/Honors Thesis, University of Victoria (2018)
+### NSERC USRA/Honors Thesis, University of Victoria (2018)
   * Project: Climate sensitivity dependence on background climate state
   * Advisor: Dr. Colin Goldblatt
   
-* NSERC USRA/Directed Study, University of Victoria (2017)
+### NSERC USRA/Directed Study, University of Victoria (2017)
   * Project: Clouds stabilize Earth's long term climate
   * Advisor: Dr. Colin Goldblatt
   
   
 Professional Experience
 ======
-Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
+### Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
   * Based out of Rotterdam 2014-2015
   Led technical strategy for international resellers and implementation partners.
   Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowlegde base articles, on-site implementation/architecture consulting, and community engagement.
 
-Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
+### Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
   Provided full technical support for Geocortex suite of web-based mapping products, including:
    - technical troubleshooting involving code-analysis, custom scripting, and configuration
    - virtual and on-site onsite training
@@ -50,7 +50,7 @@ Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)
   
 Technical Skills
 ======
-* Coding Languages & Associated Tools:
+### Coding Languages & Associated Tools:
   * Python - PyART, Matplotlib, MetPy, NumPy, SciPy, XArray, Dask, Mayavi
   * MATLAB
   * BASH
@@ -58,12 +58,12 @@ Technical Skills
   * git, Mercurial, SVN
   * NetCDF, CDO
   
-* Expertise in Software:
+### Expertise in Software:
   * Visual Studio Code
   * QGIS, ArcGIS, Geocortex, Blender
   * Windows Server, Linux
 
-* Climate Models Used:
+### Climate Models Used:
   * CESM1.2, CCSM4
 
 

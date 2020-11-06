@@ -20,8 +20,8 @@ My interests are broad, and my years spent working in the geospatial software in
 You can contact me by email at vmcd@atmos.washington.edu for collaboration, outreach, speaking opportunities, etc. 
 
 
-Department of Atmospheric Sciences /n
-Box 351640 /n
-3920 Okanogan Lane /n
+Department of Atmospheric Sciences  
+Box 351640  
+3920 Okanogan Lane  
 Seattle, WA 98195-1640
 

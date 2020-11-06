@@ -12,7 +12,7 @@ I am a graduate student and scientist in the [Department of Atmospheric Science]
 
 Previously, I worked with [Dr. Colin Goldblatt](http://www.colingoldblatt.net/) on the Faint Young Sun problem, and we found that low cloud feedbacks contribute up to 40% of the forcing required to keep early Earth warm, allowing geochemical feedbacks to stay within the ranges that we have evidence for. This work is currently in review.
 
-I have also worked in the geospatial software industry, and have retained a strong interest in making better tools for both visualizing, and getting critical information out of massive, earth-scale datasets. 
+I have also worked in the geospatial software industry, and have retained a strong interest in making better tools for analysis and visualization of massive, earth-scale datasets. 
 
 Contact
 =======

@@ -10,18 +10,18 @@ redirect_from:
 
 I am a graduate student and scientist in the [Department of Atmospheric Science](https://atmos.uw.edu/) at the University of Washington in Seattle. My research focuses on the dynamics controlling the formation and evolution of snowbands in winter cyclones. As part of the science team on the Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms [IMPACTS](https://espo.nasa.gov/impacts), I use observations collected from aircraft-mounted instruments to better understand winter storms. My PhD advisor is [Dr. Lynn McMurdie](https://faculty.washington.edu/lynnm/wordpress/).
 
-Previously, I worked with [Dr. Colin Goldblatt](http://www.colingoldblatt.net/) on the Faint Young Sun problem, and we found that low cloud feedbacks contribute up to 40% of the forcing required to keep early Earth warm, allowing geochemical feedbacks to stay within the ranges that we have evidence for. This work is currently in review.
+I have also worked with [Dr. Colin Goldblatt](http://www.colingoldblatt.net/) on the paleoclimate modelling with global climate models, investigating the role of low cloud feedbacks in regulating Earth's climate. Our results from this work are in currently in review at Nature Geoscience.
 
-I have also worked in the geospatial software industry, and have retained a strong interest in making better tools for analysis and visualization of massive, earth-scale datasets. 
-
-Contact
-=======
-
-Please send any emails to vmcd@atmos.washington.edu.
+My interests are broad, and after working in the geospatial software industry for a number of years before starting my PhD I've retained a strong interest in making better tools for analyzing and visualizing massive, earth-scale datasets, 
 
 
-Department of Atmospheric Sciences
-Box 351640
-3920 Okanogan Lane
+## Contact
+
+You can contact me by email at vmcd@atmos.washington.edu for collaboration, outreach, speaking opportunities, etc. 
+
+
+Department of Atmospheric Sciences /n
+Box 351640 /n
+3920 Okanogan Lane /n
 Seattle, WA 98195-1640
 

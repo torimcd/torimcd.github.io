@@ -14,7 +14,7 @@ I am a graduate student in the [Department of Atmospheric Sciences](https://atmo
 
 I have ongoing collaborations with [Dr. Colin Goldblatt](http://www.colingoldblatt.net/) at the [University of Victoria](https://seos.uvic.ca), where we study paleoclimate using global climate models to uncover the role of low cloud feedbacks in regulating Earth's surface temperature. Our recent results are currently under review.
 
-Before starting my PhD I worked in the geospatial software industry. This background continues to motivate my broad interests, and making better tools for analyzing and visualizing massive, earth-scale datasets is an area I hope to do more work in again soon.
+Before starting my PhD I worked in the geospatial software industry. This background continues to motivate broad interests, and building better tools for analyzing and visualizing massive, earth-scale datasets is an area I hope to do more work in again soon.
 
 
 ## Contact

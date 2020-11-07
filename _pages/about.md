@@ -22,6 +22,7 @@ Before starting my PhD I worked in the geospatial software industry. This backgr
 You can contact me by email at vmcd@atmos.washington.edu for collaboration, outreach, speaking opportunities, etc. 
 
 
+University of Washington
 Department of Atmospheric Sciences  
 Box 351640  
 3920 Okanogan Lane  

@@ -10,7 +10,7 @@ Peer Reviewed Articles
 
 Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2020. Clouds Stabilize Earth's Long Term Climate. *(in review)*
 
-#### Conference Abstracts
+### Conference Abstracts
 
 [McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., ***McDonald, V. L.*** , 2020. Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020.](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/757875)
 

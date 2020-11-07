@@ -18,12 +18,9 @@ My role in the field is mainly as a forecaster, but I have also flown on the NAS
 
 IMPACTS Press
 -------------
-[NASA snowstorm study will send planes inside of East Coast storms](https://www.mic.com/p/nasa-snowstorm-study-will-send-planes-inside-of-east-coast-storms-21098397) - Mic.com (2020)
-
-[NASA ‘snow hunters’ to fly into East Coast storms to improve forecasts](https://www.washingtonpost.com/weather/2020/01/15/nasa-snow-hunters-fly-into-east-coast-snowstorms-improve-storm-forecasts/?utm_campaign) - Washington Post (2020)
-
-[NASA Taps Snowstorm-Chasing Team To Improve Forecasting](https://www.npr.org/2020/01/20/797981409/nasa-taps-snowstorm-chasing-team-to-improve-forecasting) - NPR (2020)
-
+[NASA snowstorm study will send planes inside of East Coast storms](https://www.mic.com/p/nasa-snowstorm-study-will-send-planes-inside-of-east-coast-storms-21098397) - Mic.com (2020)  
+[NASA ‘snow hunters’ to fly into East Coast storms to improve forecasts](https://www.washingtonpost.com/weather/2020/01/15/nasa-snow-hunters-fly-into-east-coast-snowstorms-improve-storm-forecasts/?utm_campaign) - Washington Post (2020)  
+[NASA Taps Snowstorm-Chasing Team To Improve Forecasting](https://www.npr.org/2020/01/20/797981409/nasa-taps-snowstorm-chasing-team-to-improve-forecasting) - NPR (2020)  
 [UW scientist to lead NASA field study of East Coast snowstorms](https://www.washington.edu/news/2019/12/10/uw-scientist-to-lead-nasa-field-study-of-east-coast-snowstorms/) - UW News (2019)
 
 

@@ -40,4 +40,4 @@ Conference Abstracts
 Other Writing
 =============
 
-Winter Stormchasing in the Northeastern US - UW Atmospheric Sciences' Annual Newsletter, 2020 (to be published soon!)
+Winter Stormchasing in the Northeastern US - UW Atmospheric Sciences' Annual Newsletter, 2020 (coming soon!)

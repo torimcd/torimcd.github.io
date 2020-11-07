@@ -15,13 +15,13 @@ Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2020. Clouds Stabilize Earth
 [McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., ***McDonald, V. L.*** , 2020. Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020.](McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., McDonald, V. L. , 2020. Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020.)
 
 
-[Goldblatt, C., ***McDonald, V. L., and McCusker, K, 2019. Clouds Stabilize Earth's Long Term Climate](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A11L2768G/abstract)  
+[Goldblatt, C., ***McDonald, V. L.***, and McCusker, K, 2019. Clouds Stabilize Earth's Long Term Climate](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A11L2768G/abstract)  
 
 
 [Goldblatt, C., ***McDonald, V. L.*** , and McCusker, K., 2018. Physical Feedbacks on Stratus Cloud Resolve the Faint Young Sun Problem.](https://www.hou.usra.edu/meetings/climatology2018/pdf/2013.pdf)  
 
 
-[Goldblatt, C., ***McDonald, V. L., and McCusker, K., 2017. Physical feedbacks on stratus cloud amount resolve the Faint Young Sun Paradox](https://ui.adsabs.harvard.edu/abs/2017AGUFMPP43E..08G/abstract)
+[Goldblatt, C., ***McDonald, V. L.***, and McCusker, K., 2017. Physical feedbacks on stratus cloud amount resolve the Faint Young Sun Paradox](https://ui.adsabs.harvard.edu/abs/2017AGUFMPP43E..08G/abstract)
 
 
 

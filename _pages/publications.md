@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer Reviewd Articles
+## Peer Reviewed Articles
 
 
 {% if author.googlescholar %}

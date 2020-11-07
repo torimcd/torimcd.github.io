@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-hi here's my papers
+## Peer Reviewd Articles
 
 
 {% if author.googlescholar %}
@@ -17,3 +17,5 @@ hi here's my papers
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Other Writing

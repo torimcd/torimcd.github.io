@@ -90,8 +90,7 @@ Lunar and Planetary Institute, Houston, Texas
 Honors Fest, University of Victoria  
 JCURA Research Fair, University of Victoria 
 
-
-  <!-- ul>{% for post in site.talks %}
+<!--ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul -->
  

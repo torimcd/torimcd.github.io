@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-Education
----------
+## Education  
+
 Ph.D in Atmospheric Science, University of Washington  (2019 - present)  
 B.Sc. in Earth Science & Mathematics, University of Victoria  (2019)  
 Cert. in Computer Systems Technology, Camosun College  (2011)  
 A.Sc. in Mathematics, Camosun College  (2010)
 
 
-Research Positions
--------------------
+## Research Positions  
+
 ### Graduate Research Assistant, University of Washington (2019 - present)
   * Project: NASA IMPACTS - Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms  
   Advisor: Dr. Lynn McMurdie
@@ -33,8 +33,8 @@ Research Positions
   Advisor: Dr. Colin Goldblatt
   
   
-Professional Experience
------------------------
+## Professional Experience
+
 ### Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
   * Based out of Rotterdam 2014-2015  
   Led technical strategy for international resellers and implementation partners.  
@@ -48,22 +48,22 @@ Professional Experience
       * Advocating for customer concerns with product development teams
 
 
-Publications
-------------
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Presentations
-------
+## Presentations
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
   
-Technical Skills
----------------
+## Technical Skills
+
 #### Coding Languages & Associated Tools:  
   Python - PyART, Matplotlib, MetPy, NumPy, SciPy, XArray, Dask, Mayavi  
   MATLAB, BASH, .NET, C, JavaScript  
@@ -79,8 +79,8 @@ Technical Skills
   CESM1.2, CCSM4
 
 
-Service and Professional Memberships
-------------------------------------
+## Service and Professional Memberships
+
 Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)  
 Diversity Committee Representative - Dept. of Atmospheric Sciences, UW (2020)  
 Diversity Committee Representative - College of the Environment, UW (2020)  

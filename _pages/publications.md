@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer Reviewed Articles
-
+Peer Reviewed Articles
+--------------
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -18,4 +18,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Other Writing
+Other Writing
+-------------

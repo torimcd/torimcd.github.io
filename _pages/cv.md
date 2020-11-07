@@ -36,9 +36,9 @@ A.Sc. in Mathematics, Camosun College  (2010)
 # Professional Experience
 
 ### Sr. Technical Advisor, Latitude Geographics Group Ltd. (2014 - 2017)
-  * Based out of Rotterdam 2014-2015  
-  Led technical strategy for international resellers and implementation partners.  
-  Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowledge base articles, on-site implementation/architecture consulting, and community engagement.
+  *** Based out of Rotterdam 2014-2015 *** 
+  * Led technical strategy for international resellers and implementation partners.  
+  * Developer advocacy through creating and leading on-boarding training, technical deep dive seminars, conference presentations, knowledge base articles, on-site implementation/architecture consulting, and community engagement.
 
 ### Product Support Analyst, Latitude Geographics Group Ltd. (2011 - 2014)  
   * Provided full technical support for Geocortex suite of web-based mapping products, including:

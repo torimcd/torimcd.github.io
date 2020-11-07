@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-*This article originally appeard in the annual Atmospheric Sciences department newlsetter*  
+*This article originally appeared in the 2020 edition of Department of Atmospheric Sciences annual newsletter*  
 
 
 Every year snowstorms cause millions of dollars in property damage, economic loss, and personal injury by causing major traffic accidents, shutting down cities, grounding air traffic, and causing power outages. Improving forecasts of both the location and intensity of snowfall is critical for communities to be able to adequately prepare for and mitigate the effects of major snowstorms. And we have the technology to help. The Investigation of Microphysics of Precipitation for Atlantic Coast-Threatening Snowstorms (IMPACTS) is a five-year Earth Venture Suborbital (EVS-3) NASA project led by UW Research Associate Professor Lynn McMurdie. Over the course of three deployments, two aircraft and a host of mobile ground crews go storm chasing to collect critical new observations that will elucidate how and why snowfall organizes into narrow bands of heavy precipitation. Understanding the processes that contribute to snow band formation and life cycle is the first goal, but equally important is applying what we learn to improve both forecasting in numerical models, and detection of snowfall from space.  

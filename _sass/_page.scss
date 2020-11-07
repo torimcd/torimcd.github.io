@@ -15,7 +15,6 @@
     max-width: $x-large;
   }
 }
-
   
 .page {
   @include breakpoint($large) {

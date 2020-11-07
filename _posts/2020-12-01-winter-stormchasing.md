@@ -24,4 +24,7 @@ IMPACTS is set to continue in 2021 and 2022, although with COVID-19 still posing
 
 {% include image.html url="/torimcd.github.io/images/vm_plane2020.png" description="Victoria in front of the NASA P-3 at Wallops Flight Facility in Virginia." %}
 
+![Victoria P3 2020](/torimcd.github.io/images/vm_plane2020.png)
+<figcaption>Here is a picture of me visiting the 'arrowhead mountain' from beyond the Wall in Iceland and the children of the forest in front of it. </figcaption>
+
 

@@ -12,4 +12,4 @@ This paper is in review. Using global climate models, we show that low cloud amo
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Goldblatt, C., et al (in review). "Clouds Stabilize Earth's Long Term Climate." <i>Journal TBD</i>. 1(1).

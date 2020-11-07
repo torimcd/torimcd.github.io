@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 Peer Reviewed Articles
---------------
+======================
 
 Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2020. Clouds Stabilize Earth's Long Term Climate. *(in review)*
 
@@ -37,6 +37,6 @@ Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2020. Clouds Stabilize Earth
 {% endfor %}-->
 
 Other Writing
--------------
+=============
 
 Winter Stormchasing in the Northeastern US - UW Atmospheric Sciences' Annual Newsletter, 2020 (to be published soon!)

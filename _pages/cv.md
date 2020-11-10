@@ -115,7 +115,6 @@ JCURA Research Fair, University of Victoria
 # Service and Professional Memberships
 
 Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)  
-Diversity Committee Representative - Dept. of Atmospheric Sciences, UW (2020)  
 Diversity Committee Representative - College of the Environment, UW (2020)  
 
 American Meteorological Society (2019 - present)  

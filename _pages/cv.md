@@ -93,13 +93,13 @@ JCURA Research Fair, University of Victoria
 
 ### Select Industry Talks:
 
-ESRI Asia Pacific Conference, Bangkok TH (2015)
-Den Danske ESRI Brugerkonference, Copenhagen DK (2015) *(invited)*
-GISWORX, Dubai UAE (2015) *(invited)*
-GeoWeb User Day, Rotterdam NL (2015) *(invited)*
-ESRI Norsk Brukerkonferanse, Oslo NO (2015)
-ESRI Middle East & Asia Conference, Kuwait (2014)
-La Conférence Francophone ESRI, Paris FR (2014)
+ESRI Asia Pacific Conference, Bangkok TH (2015)  
+Den Danske ESRI Brugerkonference, Copenhagen DK (2015) *(invited)*  
+GISWORX, Dubai UAE (2015) *(invited)*  
+GeoWeb User Day, Rotterdam NL (2015) *(invited)*  
+ESRI Norsk Brukerkonferanse, Oslo NO (2015)  
+ESRI Middle East & Asia Conference, Kuwait (2014)  
+La Conférence Francophone ESRI, Paris FR (2014)  
 ESRI Netherlands Conference, Rotterdam NL (2014)
 
 <!--ul>{% for post in site.talks %}

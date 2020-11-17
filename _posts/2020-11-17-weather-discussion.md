@@ -10,7 +10,9 @@ tags:
 ---
 
 
-This year has been a record breaker for a lot of extreme weather, and most recently, it's hurricanes that are making headlines every week. We're seeing the devastating effects of climate change as storms become more frequent, more intense, and slower to die out. 
+This year has been a record breaker for a lot of extreme weather, and most recently, it's hurricanes that are making headlines every week. 
+
+We're seeing the devastating effects of climate change as storms become more frequent, more intense, and slower to die out. 
 This image from the Weather Channel shows all of the named storms we've had this year, and this doesn't even include Hurricane Iota down in the Caribbean!
 
 ![Named Storms 2020](/torimcd.github.io/images/all_named_storms2020.gif)

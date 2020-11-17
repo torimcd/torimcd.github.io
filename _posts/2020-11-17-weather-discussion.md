@@ -1,5 +1,5 @@
 ---
-title: '2020-11-17 Hurricane Iota'
+title: 'Hurricane Iota'
 date: 2020-11-17
 permalink: /posts/2020/11/2020-11-17-hurricane-iota/
 tags:
@@ -9,9 +9,6 @@ tags:
   - tropics
 ---
 
-
-Hurricane Iota
-------
 
 This year has been a record breaker for a lot of extreme weather, and most recently, it's hurricanes that are making headlines every week. We're seeing the devastating effects of climate change as storms become more frequent, more intense, and slower to die out. 
 This image from the Weather Channel shows all of the named storms we've had this year, and this doesn't even include Hurricane Iota down in the Caribbean!

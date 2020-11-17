@@ -15,12 +15,12 @@ This year has been a record breaker for a lot of extreme weather, and most recen
 We're seeing the devastating effects of climate change as storms become more frequent, more intense, and slower to die out. 
 This image from the Weather Channel shows all of the named storms we've had this year, and this doesn't even include Hurricane Iota down in the Caribbean!
 
-![Named Storms 2020](/torimcd.github.io/images/all_named_storms2020.gif)
+![Named Storms 2020](/torimcd.github.io/images/all_named_storms2020.png)
 <figcaption>Named storms in 2020 from the Weather Channel.</figcaption><br>
 
 Iota broke records by being the 30th named storm this year. It is extremely late in the season for such an intense hurricane. Below is a radar loop of Iota organizing on Sunday.  
 
-![Iota Radar 2020](/torimcd.github.io/images/iota_radar.png)
+![Iota Radar 2020](/torimcd.github.io/images/iota_radar.gif)
 <figcaption>Radar loop of hurricane Iota ramping up on Sunday.</figcaption><br>
 
 The forecast path and timeline was fairly accurate, although Iota did end up slightly south of where it was forecast and made landfall a little late. Here is the forecast on Sunday for time and location of landfall, and below that is the actual path that it tracked. Iota made landfall on Mondey evening.

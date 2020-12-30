@@ -50,7 +50,7 @@ Based out of Rotterdam 2014-2015
 
 # Publications
 
-Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2021. Earth's Long Term Climate Stabilized by Clouds. *(in review)*  
+Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2021. Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. In press.  
 
 ### Conference Abstracts
 

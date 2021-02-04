@@ -40,4 +40,4 @@ Conference Abstracts
 Other Writing
 =============
 
-Winter Stormchasing in the Northeastern US - *Atmospheric Circulation*, Annual Newsletter, 2020 (coming soon!)
+Winter Stormchasing in the Northeastern US - *Atmospheric Circulation*, Annual Newsletter, 2020 ([pdf](https://atmos.uw.edu/wp-content/uploads/2021/01/UW_AtmosSci_Newsletter2020.pdf))

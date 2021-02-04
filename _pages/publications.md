@@ -8,7 +8,7 @@ author_profile: true
 Peer Reviewed Articles
 ======================
 
-Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2021. Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. (in press)
+Goldblatt, C., ***McDonald, V. L.***, McCusker, K. E., 2021. Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. [doi:10.1038/s41561-021-00691-7](https://doi.org/10.1038/s41561-021-00691-7)
 
 Conference Abstracts
 ====================

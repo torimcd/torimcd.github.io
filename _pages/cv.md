@@ -52,6 +52,10 @@ Based out of Rotterdam 2014-2015
 
 Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2021. Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. [doi:10.1038/s41561-021-00691-7](https://doi.org/10.1038/s41561-021-00691-7) 
 
+### Data
+
+Goldblatt, C. , ***McDonald, V. L.***, McCusker, K. (2021) Model output from "Earth's Long Term Climate Stabilized By Clouds". Federated Research Data Repository. [doi:10.20383/101.0308](https://doi.org/10.20383/101.0308)
+
 ### Conference Abstracts
 
 McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., ***McDonald, V. L.*** , 2020. Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020.[pdf](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/757875)

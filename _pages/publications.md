@@ -12,7 +12,7 @@ Goldblatt, C., ***McDonald, V. L.***, McCusker, K. E. (2021) Earth's Long Term C
 
 Data
 ====
-Goldblatt, C. , ***McDonald, V. L.***, McCusker, K. (2021) Model output from "Earth's Long Term Climate Stabilized By Clouds". Federated Research Data Repository. [doi:10.20383/101.0308](https://doi.org/10.20383/101.0308)
+Goldblatt, C. , ***McDonald, V. L.***, McCusker, K. E. (2021) Model output from "Earth's Long Term Climate Stabilized By Clouds". Federated Research Data Repository. [doi:10.20383/101.0308](https://doi.org/10.20383/101.0308)
 
 
 Conference Abstracts

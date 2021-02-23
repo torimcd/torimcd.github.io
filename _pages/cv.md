@@ -13,7 +13,7 @@ redirect_from:
 # Education  
 
 Ph.D in Atmospheric Science, University of Washington  (2019 - present)  
-B.Sc. in Earth Science & Mathematics, University of Victoria  (2019)  
+B.Sc. in Earth Science, Mathematics Minor, University of Victoria  (2019)  
 Cert. in Computer Systems Technology, Camosun College  (2011)  
 A.Sc. in Mathematics, Camosun College  (2010)
 
@@ -51,24 +51,24 @@ Based out of Rotterdam 2014-2015
 # Publications
 ### Peer Reviewed Articles
 
-Goldblatt, C., ***McDonald, V. L.***, McCusker, K., 2021. Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. [doi:10.1038/s41561-021-00691-7](https://doi.org/10.1038/s41561-021-00691-7) 
+Goldblatt, C., ***McDonald, V. L.***, McCusker, K. E., (2021). Earth's Long Term Climate Stabilized by Clouds. *Nature Geoscience*. [doi:10.1038/s41561-021-00691-7](https://doi.org/10.1038/s41561-021-00691-7) 
 
 ### Data
 
-Goldblatt, C. , ***McDonald, V. L.***, McCusker, K. (2021) Model output from "Earth's Long Term Climate Stabilized By Clouds". Federated Research Data Repository. [doi:10.20383/101.0308](https://doi.org/10.20383/101.0308)
+Goldblatt, C. , ***McDonald, V. L.***, McCusker, K. E (2021) Model output from "Earth's Long Term Climate Stabilized By Clouds". Federated Research Data Repository. [doi:10.20383/101.0308](https://doi.org/10.20383/101.0308)
 
 ### Conference Abstracts
 
-McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., ***McDonald, V. L.*** , 2020. Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020. [pdf](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/757875)
+McMurdie, L., Heymsfield, G., Braun, S., Yorks, J., Finlon, J., ***McDonald, V. L.*** , (2020). Investigation of Microphysics and Precipitation for Atlantic Coast Threatening Snowstorms (IMPACTS): Preliminary results from the first deployment in winter 2020. [pdf](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/757875)
 
 
-Goldblatt, C., ***McDonald, V. L.***, and McCusker, K, 2019. Clouds Stabilize Earth's Long Term Climate [pdf](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A11L2768G/abstract)  
+Goldblatt, C., ***McDonald, V. L.***, and McCusker, K. E., (2019). Clouds Stabilize Earth's Long Term Climate [pdf](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A11L2768G/abstract)  
 
 
-Goldblatt, C., ***McDonald, V. L.*** , and McCusker, K., 2018. Physical Feedbacks on Stratus Cloud Resolve the Faint Young Sun Problem. [pdf](https://www.hou.usra.edu/meetings/climatology2018/pdf/2013.pdf)  
+Goldblatt, C., ***McDonald, V. L.*** , and McCusker, K. E., (2018). Physical Feedbacks on Stratus Cloud Resolve the Faint Young Sun Problem. [pdf](https://www.hou.usra.edu/meetings/climatology2018/pdf/2013.pdf)  
 
 
-Goldblatt, C., ***McDonald, V. L.***, and McCusker, K., 2017. Physical feedbacks on stratus cloud amount resolve the Faint Young Sun Paradox [pdf](https://ui.adsabs.harvard.edu/abs/2017AGUFMPP43E..08G/abstract)
+Goldblatt, C., ***McDonald, V. L.***, and McCusker, K. E., (2017). Physical feedbacks on stratus cloud amount resolve the Faint Young Sun Paradox [pdf](https://ui.adsabs.harvard.edu/abs/2017AGUFMPP43E..08G/abstract)
 
 
 <!--ul>{% for post in site.publications %}
@@ -118,7 +118,7 @@ ESRI Netherlands Conference, Rotterdam NL (2014)
   Python - PyART, Matplotlib, MetPy, NumPy, SciPy, XArray, Dask, Mayavi  
   MATLAB, BASH, .NET, C, JavaScript  
   git, Mercurial, SVN  
-  NetCDF, CDO
+  NetCDF, HDF5, CDO
   
 #### Expertise in Software:  
   Visual Studio Code  
@@ -132,7 +132,8 @@ ESRI Netherlands Conference, Rotterdam NL (2014)
 # Service and Professional Memberships
 
 Graduate Student Representative - Dept. of Atmospheric Sciences, UW (2020-2022)  
-Diversity Committee Representative - College of the Environment, UW (2020)  
+Diversity Committee Representative - College of the Environment, UW (2020)
+UW Atmos Women's Group Coordinator - Dept. of Atmospheric Sciences, UW (2020-2021)  
 
 American Meteorological Society (2019 - present)  
 American Geophysical Union (2018 - present)  

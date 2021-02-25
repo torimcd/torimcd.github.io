@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a graduate student in the [Department of Atmospheric Sciences](https://atmos.uw.edu/) at the University of Washington in Seattle. My current research is focussed on understanding how the wind influences precipitation in severe midlatitude winter cyclones. As part of the Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms [IMPACTS](https://espo.nasa.gov/impacts), I get to collect data by flying instruments directly into the heart of storm clouds on research aircraft. My PhD advisor is [Dr. Lynn McMurdie](https://faculty.washington.edu/lynnm/wordpress/).
+I am a graduate student in the [Department of Atmospheric Sciences](https://atmos.uw.edu/) at the University of Washington in Seattle. My current research is focussed on understanding how the wind influences precipitation in severe midlatitude winter cyclones. As part of the Investigation of Microphysics and Precipitation in Atlantic Coast-Threatening Snowstorms ([IMPACTS](https://espo.nasa.gov/impacts)), I get to collect data by flying instruments directly into the heart of storm clouds on research aircraft. My PhD advisor is [Dr. Lynn McMurdie](https://faculty.washington.edu/lynnm/wordpress/).
 
 I also have ongoing collaborations with [Dr. Colin Goldblatt](http://www.colingoldblatt.net/) at the [University of Victoria](https://seos.uvic.ca), where we study paleoclimate using global climate models to better understand the role of clouds in regulating Earth's climate over geologic timescales. 
 
